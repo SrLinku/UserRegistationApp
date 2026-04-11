@@ -1,4 +1,4 @@
-package com.nan.userregistrationapp;
+package com.lincoln.userregistrationapp;
 
 // Importação das classes necessárias para a funcionalidade do aplicativo
 import android.content.Intent;

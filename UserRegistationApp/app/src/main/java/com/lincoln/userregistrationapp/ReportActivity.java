@@ -1,4 +1,4 @@
-package com.nan.userregistrationapp;
+package com.lincoln.userregistrationapp;
 
 // Importacoes de componentes de UI, intencoes e a biblioteca ROOM
 import android.content.Intent;
@@ -8,8 +8,6 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.room.Room;
 
-
-import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.List;
 

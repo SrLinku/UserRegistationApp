@@ -1,4 +1,4 @@
-package com.nan.userregistrationapp;
+package com.lincoln.userregistrationapp;
 // Importa as anotacoes e classes da biblioteca room e do Android
 import android.content.Context;// classe que representa o contexto da aplicação ( necessario para acessar recursos)
 import androidx.room.Database; // Anotacao para marcar a classe como um banco de dados room

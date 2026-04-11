@@ -1,4 +1,4 @@
-package com.nan.userregistrationapp;
+package com.lincoln.userregistrationapp;
 
 //O Data Access Object é o componente que serve para persistencia de dados. Serve para definir as operações que podem ser feitas no banco de dados com relação á entidade User.
 

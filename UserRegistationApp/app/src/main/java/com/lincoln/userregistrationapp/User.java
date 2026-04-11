@@ -1,4 +1,4 @@
-package com.nan.userregistrationapp;
+package com.lincoln.userregistrationapp;
 
 //Importa anotaçoes do ROOM necessários para está classe como uma entidade do banco de dados
 //comando: alt+enter para o gradle sincronizar e importar o room
